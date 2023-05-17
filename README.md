@@ -1,2 +1,2 @@
-# youtube.bgn.games
+# youtube
 YouTube Vercel Redirect
